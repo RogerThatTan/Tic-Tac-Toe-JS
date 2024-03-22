@@ -1,4 +1,5 @@
-**Tic Tac Toe Game
+<h1 align=center>Tic Tac Toe Game</h1><br>
+
 
 ![image](https://github.com/RogerThatTan/Tic-Tac-Toe-JS/assets/101284808/c66d8c2a-379e-4026-9487-e3d8f1bcd35a)
 ![image](https://github.com/RogerThatTan/Tic-Tac-Toe-JS/assets/101284808/ba3d6d19-260a-4778-b779-8674f6b820ab)
